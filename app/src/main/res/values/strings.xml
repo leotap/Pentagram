@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pentagram</string>
+    <string name="hello">Hola me ayuda a revisar mi trabajo por favor!</string>
+    <string name="primernumero">Teclear primer numero!</string>
+    <string name="segundonumero">Segundo Numero a teclear!</string>
+
+</resources>
